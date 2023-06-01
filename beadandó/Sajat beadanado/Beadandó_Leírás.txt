@@ -1,0 +1,4 @@
+A karakter mozgatása az " A, W, S, D" gombok lenyomásával lehetséges.
+A kamera mozgatása: Bármelyik egérgomb lenyomásával és az egér mozgatásával történik.
+A fényerő állítása "Q, E" gombok lenyomásával szabályozható.
+Súgó ki/bekapcsolása: "F1" gomb.
